@@ -1,0 +1,19 @@
+body{
+    background-color: darkkhaki;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+img{
+    background-color: darkolivegreen;
+    border-radius: 50%;
+}
+table{
+    border-color: black;
+}
+h2{
+    color: darkblue;
+}
